@@ -5,4 +5,6 @@ git is free software
 git has a mutable index called stage
 git dhdhdh:
 itidnsjsao h:wq
-kdkdkdk
+kdkdkd
+
+I input a new tree
